@@ -1,0 +1,16 @@
+.nav-link {
+    white-space: nowrap;
+}
+
+.image-header {
+width: 100%;
+}
+
+.img-thumbnail {
+    border: 0 !important;
+}
+
+.navbar-toggler {
+    position:fixed !important;
+    right:1em ;
+}
